@@ -10,3 +10,5 @@ spring:
           username: kotovk2109@gmail.com
           password: GithubP@ss44
 
+server:
+  port: 8888
