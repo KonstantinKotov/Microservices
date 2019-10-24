@@ -5,4 +5,8 @@ spring:
   cloud:
     config:
       server:
-        s
+        git:
+          uri: https://github.com/KonstantinKotov/Microservices.git
+          username: kotovk2109@gmail.com
+          password: GithubP@ss44
+
