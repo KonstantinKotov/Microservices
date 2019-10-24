@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/discovery-config/discovery-config.iml" filepath="$PROJECT_DIR$/discovery-config/discovery-config.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discovery-config.main.iml" filepath="$PROJECT_DIR$/.idea/modules/discovery-config.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discovery-config.test.iml" filepath="$PROJECT_DIR$/.idea/modules/discovery-config.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/discovery-server/discovery-server.iml" filepath="$PROJECT_DIR$/discovery-server/discovery-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discovery-server.main.iml" filepath="$PROJECT_DIR$/.idea/modules/discovery-server.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/discovery-server.test.iml" filepath="$PROJECT_DIR$/.idea/modules/discovery-server.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/micro.iml" filepath="$PROJECT_DIR$/micro.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice_one/microservice_one.iml" filepath="$PROJECT_DIR$/microservice_one/microservice_one.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/microservice_one.main.iml" filepath="$PROJECT_DIR$/.idea/modules/microservice_one.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/microservice_one.test.iml" filepath="$PROJECT_DIR$/.idea/modules/microservice_one.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/microservice_two/microservice_two.iml" filepath="$PROJECT_DIR$/microservice_two/microservice_two.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/microservice_two.main.iml" filepath="$PROJECT_DIR$/.idea/modules/microservice_two.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/microservice_two.test.iml" filepath="$PROJECT_DIR$/.idea/modules/microservice_two.test.iml" />
+    </modules>
+  </component>
+</project>
